@@ -1,0 +1,22 @@
+{
+  "name": "icollege-socket",
+  "version": "1.0.0",
+  "description": "Servidor Socket.io de datos para iCollege",
+  "main": "socket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorandresv/icollege.git"
+  },
+  "author": "Victor Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorandresv/icollege/issues"
+  },
+  "homepage": "https://github.com/victorandresv/icollege#readme",
+  "dependencies": {
+    "socket.io": "^2.0.3"
+  }
+}
